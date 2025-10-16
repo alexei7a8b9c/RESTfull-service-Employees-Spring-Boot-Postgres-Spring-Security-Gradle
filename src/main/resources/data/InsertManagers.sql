@@ -1,0 +1,22 @@
+
+INSERT INTO managers (fio_manager, department, bio, url_photo) VALUES
+                                                                   ('Иванов Иван Иванович', 'IT', 'Опытный руководитель проектов в области разработки ПО. Специалист по управлению командами и процессами. Любит внедрять гибкие методологии.', 'https://example.com/photos/ivanov_unique.jpg'),
+                                                                   ('Петрова Анна Сергеевна', 'Маркетинг', 'Эксперт по брендингу и цифровым кампаниям. Успешно запускала несколько крупных проектов.', 'https://example.com/photos/petrova_unique.jpg'),
+                                                                   ('Смирнов Алексей Владимирович', 'Финансы', 'Руководитель с акцентом на финансовый контроль и оптимизацию затрат.', 'https://example.com/photos/smirnov_unique.jpg'),
+                                                                   ('Кузнецова Елена Александровна', 'HR', 'Специалист по развитию персонала, наставничество и корпоративная культура.', 'https://example.com/photos/kuznetsova_unique.jpg'),
+                                                                   ('Новиков Сергей Дмитриевич', 'Operations', 'Опыт управления операциями, оптимизация процессов и KPI.', 'https://example.com/photos/novikov_unique.jpg'),
+                                                                   ('Лебедева Мария Владимировна', 'IT', 'Архитектор решений, руководитель команд разработки и внедрения.', 'https://example.com/photos/lebedeva_unique.jpg'),
+                                                                   ('Федоров Павел Николаевич', 'Sales', 'Лидер отдела продаж, развитие каналов и стратегическое планирование.', 'https://example.com/photos/fedorov_unique.jpg'),
+                                                                   ('Соколова Виктория Сергеевна', 'Customer Success', 'Менеджер по работе с ключевыми клиентами, удержание и развивающее сопровождение.', 'https://example.com/photos/sokolova_unique.jpg'),
+                                                                   ('Коровин Дмитрий Викторович', 'IT', 'DevOps-руководитель, автоматизация и надежность сервисов.', 'https://example.com/photos/korovin_unique.jpg'),
+                                                                   ('Ильина Наталья Леонидовна', 'Operations', 'Стратегическое планирование операционной деятельности.', 'https://example.com/photos/ilyna_unique.jpg'),
+                                                                   ('Беляева Ольга Сергеевна', 'Marketing', 'Креативный директор, управление креативной командой.', 'https://example.com/photos/belyaeva_unique.jpg'),
+                                                                   ('Громов Анатолий Егорович', 'Finance', 'Контроль за финансовыми потоками, отчетность и риск-менеджмент.', 'https://example.com/photos/gromov_unique.jpg'),
+                                                                   ('Шевченко Екатерина Петровна', 'HR', 'Развитие Talent Management, обучение и удержание сотрудников.', 'https://example.com/photos/shevchenko_unique.jpg'),
+                                                                   ('Яковлев Михаил Александрович', 'IT', 'Руководитель разработки backend и архитектуры.', 'https://example.com/photos/yakovlev_unique.jpg'),
+                                                                   ('Коваленко Светлана Викторовна', 'Sales', 'Лидер отдела продаж, расширение клиентской базы.', 'https://example.com/photos/kovalenko_unique.jpg'),
+                                                                   ('Павлов Денис Валерьевич', 'Operations', 'Оптимизация цепочек поставок и процессов.', 'https://example.com/photos/pavlov_unique.jpg'),
+                                                                   ('Солодовникова Инна Геннадьевна', 'Marketing', 'Эксперт по контент-маркетингу и SMM.', 'https://example.com/photos/solodovnikova_unique.jpg'),
+                                                                   ('Романова Татьяна Михайловна', 'Finance', 'Финансовый контролер, аналитика и бюджеты.', 'https://example.com/photos/romanova_unique.jpg'),
+                                                                   ('Егорова Григорьяна Людмила', 'IT', 'QA-лидер, обеспечение качества и тестирование.', 'https://example.com/photos/egorova_unique.jpg'),
+                                                                   ('Захаров Виктор Антонович', 'Operations', 'Менеджер по операционной эффективности и логистике.', 'https://example.com/photos/zakhov_unique.jpg');
